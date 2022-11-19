@@ -1,4 +1,4 @@
 logging:
   level: INFO
   loggers:
-    org.example: DEBUG
+    com.skyscanner: DEBUG

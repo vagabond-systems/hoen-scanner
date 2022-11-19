@@ -1,4 +1,4 @@
-package org.example;
+package com.skyscanner;
 
 import io.dropwizard.core.Configuration;
 

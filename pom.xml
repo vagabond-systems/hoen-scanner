@@ -6,7 +6,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
+    <groupId>com.skyscanner</groupId>
     <artifactId>hoen-scanner</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -17,7 +17,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <dropwizard.version>4.0.0-beta.3</dropwizard.version>
-        <mainClass>org.example.HoenScannerApplication</mainClass>
+        <mainClass>com.skyscanner.HoenScannerApplication</mainClass>
     </properties>
 
     <dependencyManagement>

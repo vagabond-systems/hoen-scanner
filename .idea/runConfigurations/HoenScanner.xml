@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="HoenScanner" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="org.example.HoenScannerApplication" />
+    <option name="MAIN_CLASS_NAME" value="com.skyscanner.HoenScannerApplication" />
     <module name="hoen-scanner" />
     <option name="PROGRAM_PARAMETERS" value="server config.yml" />
     <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
